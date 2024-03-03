@@ -1,0 +1,5 @@
+﻿  Student.cpp
+D:\exercise\file\file\Student.cpp(181): warning C4715: “Student::Student_mod”: 不是所有的控件路径都返回值
+D:\exercise\file\file\Student.cpp(234): warning C4715: “Student::Student_search”: 不是所有的控件路径都返回值
+D:\exercise\file\file\Student.cpp(206): warning C4715: “Student::Student_del”: 不是所有的控件路径都返回值
+  file.vcxproj -> D:\exercise\file\x64\Debug\file.exe

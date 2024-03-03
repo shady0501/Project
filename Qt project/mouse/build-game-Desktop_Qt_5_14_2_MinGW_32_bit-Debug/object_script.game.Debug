@@ -1,0 +1,15 @@
+debug/levelscene.o
+debug/main.o
+debug/mainwindow.o
+debug/map.o
+debug/mouse.o
+debug/mybutton.o
+debug/playscene.o
+debug/timer.o
+debug/qrc_res.o
+debug/moc_levelscene.o
+debug/moc_mainwindow.o
+debug/moc_map.o
+debug/moc_mouse.o
+debug/moc_mybutton.o
+debug/moc_playscene.o

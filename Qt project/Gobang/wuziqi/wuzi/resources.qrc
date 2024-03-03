@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/initial">
+        <file>resources/selectButton.png</file>
+        <file>resources/003.png</file>
+        <file>resources/001.png</file>
+        <file>resources/002.png</file>
+        <file>resources/white.png</file>
+        <file>resources/0board.png</file>
+        <file>resources/01board.png</file>
+        <file>resources/black.png</file>
+        <file>resources/board0.png</file>
+        <file>resources/board1.png</file>
+        <file>resources/board2.png</file>
+        <file>resources/board3.png</file>
+        <file>resources/board4.png</file>
+        <file>resources/board5.png</file>
+        <file>resources/board6.png</file>
+        <file>resources/board7.png</file>
+        <file>resources/0.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>res/PATH.png</file>
+        <file>res/WALL.png</file>
+        <file>res/left.png</file>
+        <file>res/right.png</file>
+    </qresource>
+</RCC>

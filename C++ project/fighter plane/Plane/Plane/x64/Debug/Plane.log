@@ -1,0 +1,4 @@
+﻿  plane.cpp
+D:\C++ project\fighter plane\Plane\Plane\plane.cpp(12,18): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\C++ project\fighter plane\Plane\Plane\plane.cpp(12,21): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  Plane.vcxproj -> D:\C++ project\fighter plane\Plane\x64\Debug\Plane.exe

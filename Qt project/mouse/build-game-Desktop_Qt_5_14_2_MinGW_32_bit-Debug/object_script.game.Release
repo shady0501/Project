@@ -1,0 +1,15 @@
+release/levelscene.o
+release/main.o
+release/mainwindow.o
+release/map.o
+release/mouse.o
+release/mybutton.o
+release/playscene.o
+release/timer.o
+release/qrc_res.o
+release/moc_levelscene.o
+release/moc_mainwindow.o
+release/moc_map.o
+release/moc_mouse.o
+release/moc_mybutton.o
+release/moc_playscene.o

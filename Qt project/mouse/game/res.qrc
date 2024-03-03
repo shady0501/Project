@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/app.png</file>
+        <file>res/back1.png</file>
+        <file>res/back2.png</file>
+        <file>res/map.png</file>
+        <file>res/start.png</file>
+        <file>res/start1.png</file>
+        <file>res/start2.png</file>
+        <file>res/003.png</file>
+        <file>res/selectButton.png</file>
+        <file>res/levelscene.png</file>
+        <file>res/fontSelect.png</file>
+        <file>res/fontStart.png</file>
+        <file>icon/BABA.png</file>
+        <file>icon/FLAG.png</file>
+        <file>icon/PATH.png</file>
+        <file>icon/WALL.png</file>
+        <file>res/yh.gif</file>
+        <file>res/playsound.wav</file>
+    </qresource>
+</RCC>
